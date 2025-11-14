@@ -5,7 +5,7 @@ class Database
     private $port = "3306";
     private $db_name = "rest_api";
     private $username = "root";
-    private $password = "";
+    private $password = "AisyahTech!2025";
     public $conn;
 
     public function connect()
